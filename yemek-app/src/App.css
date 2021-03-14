@@ -36,3 +36,35 @@
     transform: rotate(360deg);
   }
 }
+
+
+.contentContainer{
+  display: flex;
+  flex-direction: row;
+  
+  margin-top: 70px;
+  justify-content: space-evenly;
+ 
+
+}
+
+.carousel{
+  
+  
+ 
+  
+  
+  
+}
+
+.filterContainerApp{
+  height: 400px;
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 10px;
+  width: 200px;
+  border: 1px solid lightgray;
+  margin-left: 30px;
+  
+}
+
